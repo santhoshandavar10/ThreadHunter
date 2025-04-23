@@ -26,6 +26,12 @@
 
 ---
 
+## 📦 Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/santhoshandavar10/ThreadHunter.git
+   cd ThreadHunter
 
 ## 📦 Installation & Run
 
@@ -38,3 +44,4 @@ python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
+
